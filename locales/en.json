@@ -1,0 +1,11 @@
+{
+	"bonjour" : "Hello",
+	"maison" : "Home",
+	"accueil" : "Home",
+	"vider" : "Clear",
+	"adresse" : "Adresse",
+	"nom" : "Last name",
+	"prenom" : "Name",
+	"tel" : "Phone",
+	"courriel" : "Email"
+}
